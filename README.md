@@ -8,7 +8,7 @@ I currently work remotely with a Dubai-based design company from Cape Town, work
 
 My experience combines **creative design and technical expertise**, including space planning, interior detailing, material selection, 3D modelling, visualisation and construction documentation.
 
-I'm also developing my expertise in **Revit and BIM workflows**, with an interest in taking on part-time and freelance opportunities in interior design, Revit, BIM, CAD and 3D modelling.
+I work with Revit and BIM workflows and am continuing to expand my technical capabilities across digital design and documentation. with an interest in taking on part-time and freelance opportunities in interior design, Revit, BIM, CAD and 3D modelling.
 
 ---
 
