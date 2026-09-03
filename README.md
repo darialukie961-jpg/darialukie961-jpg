@@ -42,6 +42,30 @@ I work with Revit and BIM workflows and am continuing to expand my technical cap
 
 ---
 
+### Revit
+
+Advanced Revit certification with experience in modelling, documentation, technical standards and team support.
+
+---
+
+## 🛠️ Technical & Project Capabilities
+
+- Revit & BIM workflows
+- Advanced Revit modelling and documentation
+- Technical drawing and detailing
+- Interior architecture and joinery
+- Construction documentation
+- Design development
+- Project coordination
+- Client meetings and correspondence
+- Contractor and supplier coordination
+- Site visits, snagging and installation
+- Project management
+- Revit standards and workflow development
+- Revit training and team support
+
+---
+
 ## 📁 Selected Projects
 
 ### 🍽️ F&B Hospitality Design
