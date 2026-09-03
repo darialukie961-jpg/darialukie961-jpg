@@ -42,19 +42,22 @@ I work with Revit and BIM workflows and am continuing to expand my technical cap
 
 ---
 
-## 📐 Selected Projects
+## 📁 Selected Projects
 
-### 🏠 Interior Design
-Selected interior design projects showcasing concept development, space planning, materials, FF&E and design documentation.
+### 🍽️ F&B Hospitality Design
+Concept development, space planning, material direction and visualisation for hospitality interiors.
 
-### 🏗️ Revit & BIM
-Revit-based modelling, documentation and BIM workflows.
+[View F&B Hospitality Design →](/darialukie961-jpg/F-B-hospitality-design)
 
-### 📏 CAD & Technical Documentation
-Selected technical drawings, detailing and construction documentation.
+### 🏨 Hospitality Interior Design
+Spatial planning and interior design across lobbies, function areas, hotel rooms, suites and apartments.
 
-### 🖥️ 3D Visualisation
-Selected 3D modelling, rendering and visualisation work.
+[View Hospitality Interior Design →](/darialukie961-jpg/hospitality-interior-design)
+
+### 📐 Technical Design & Detailing
+Technical interior design and documentation covering bars, kitchens, joinery, bespoke elements, ceilings and floors.
+
+[View Technical Design & Detailing →](/darialukie961-jpg/technical-design-detailing)
 
 ---
 
