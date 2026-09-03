@@ -71,9 +71,9 @@ Graduated 2015
 
 ---
 
-## 🎯 Currently Developing
+## 🎯 Technical Focus
 
-- Advanced Revit workflows
+- Revit workflows
 - BIM modelling and documentation
 - Architectural and interior detailing
 - Revit families and components
