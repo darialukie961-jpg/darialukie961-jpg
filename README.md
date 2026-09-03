@@ -8,7 +8,7 @@ I currently work remotely with a Dubai-based design company from Cape Town, work
 
 My experience combines **creative design and technical expertise**, including space planning, interior detailing, material selection, 3D modelling, visualisation and construction documentation.
 
-I work with Revit and BIM workflows and am continuing to expand my technical capabilities across digital design and documentation. with an interest in taking on part-time and freelance opportunities in interior design, Revit, BIM, CAD and 3D modelling.
+I work with Revit and BIM workflows across modelling, technical documentation and digital design, with experience supporting efficient technical workflows and project delivery.
 
 ---
 
@@ -35,9 +35,12 @@ I work with Revit and BIM workflows and am continuing to expand my technical cap
 | **Autodesk Revit** | BIM & 3D modelling |
 | **AutoCAD** | Technical drafting & documentation |
 | **SketchUp** | 3D modelling & design development |
+| **3ds Max** | 3D Modelling & Visualisation |
+| **ArchiCAD** | Architectural modelling & documentation |
 | **Lumion** | Architectural visualisation |
 | **Adobe Photoshop** | Visualisation & presentations |
 | **Adobe InDesign** | Portfolios & design presentations |
+| **Adobe Illustrator** | Graphic & presentation work |
 | **Keynote** | Design presentations |
 
 ---
@@ -120,6 +123,8 @@ I'm interested in:
 
 ---
 
-## 📫 Contact
+## 📬 Contact
 
-Feel free to connect with me regarding professional opportunities or collaborations.
+For freelance, part-time or remote design opportunities:
+
+📧 darialukie@gmail.com
